@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<div class="container">
+    <div class="card">
+        <div class="card-body"> 
+            <div id="btn-add" class="d-flex align-items-end mr-5 flex-column w-auto">
+                <button class="btn btn-success btn-add w-auto">Add Data</button>
+            </div>
+            <table class="table caption-top table-hover table-sm table-responsive">
+                <caption>List of todo list</caption>
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Title</th>
+                        <th>Description</th>
+                        <th>Date Created</th>
+                        <th>Last Modified</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody id="table-data">
+                    <!-- Data tabel akan dimasukkan di sini -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<!-- Panggil Modal dengan Include -->
+<div id="modals"></div> 
