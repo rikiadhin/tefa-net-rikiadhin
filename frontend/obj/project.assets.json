@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rikiadhin\\tefa-net-rikiadhin\\frontend\\frontend.csproj",
+      "projectUniqueName": "C:\\dev\\NET\\tefa-net-rikiadhin\\frontend\\frontend.csproj",
       "projectName": "frontend",
-      "projectPath": "C:\\Users\\rikiadhin\\tefa-net-rikiadhin\\frontend\\frontend.csproj",
+      "projectPath": "C:\\dev\\NET\\tefa-net-rikiadhin\\frontend\\frontend.csproj",
       "packagesPath": "C:\\Users\\rikiadhin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rikiadhin\\tefa-net-rikiadhin\\frontend\\obj\\",
+      "outputPath": "C:\\dev\\NET\\tefa-net-rikiadhin\\frontend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

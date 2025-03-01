@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D+xhJpX/c4k=",
+  "dgSpecHash": "TvOgIU8oeUU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\rikiadhin\\tefa-net-rikiadhin\\backend\\backend.csproj",
+  "projectFilePath": "C:\\dev\\NET\\tefa-net-rikiadhin\\backend\\backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rikiadhin\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\rikiadhin\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

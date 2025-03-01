@@ -8353,11 +8353,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rikiadhin\\tefa-net-rikiadhin\\backend\\backend.csproj",
+      "projectUniqueName": "C:\\dev\\NET\\tefa-net-rikiadhin\\backend\\backend.csproj",
       "projectName": "backend",
-      "projectPath": "C:\\Users\\rikiadhin\\tefa-net-rikiadhin\\backend\\backend.csproj",
+      "projectPath": "C:\\dev\\NET\\tefa-net-rikiadhin\\backend\\backend.csproj",
       "packagesPath": "C:\\Users\\rikiadhin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rikiadhin\\tefa-net-rikiadhin\\backend\\obj\\",
+      "outputPath": "C:\\dev\\NET\\tefa-net-rikiadhin\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

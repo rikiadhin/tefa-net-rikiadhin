@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = frontend
 build_property.RootNamespace = frontend
-build_property.ProjectDir = C:\Users\rikiadhin\tefa-net-rikiadhin\frontend\
+build_property.ProjectDir = C:\dev\NET\tefa-net-rikiadhin\frontend\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\rikiadhin\tefa-net-rikiadhin\frontend
+build_property.MSBuildProjectDirectory = C:\dev\NET\tefa-net-rikiadhin\frontend
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/rikiadhin/tefa-net-rikiadhin/frontend/Component/Modal/modal-add.cshtml]
+[C:/dev/NET/tefa-net-rikiadhin/frontend/Component/Modal/modal-add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XE1vZGFsXG1vZGFsLWFkZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rikiadhin/tefa-net-rikiadhin/frontend/Component/Modal/modal-edit.cshtml]
+[C:/dev/NET/tefa-net-rikiadhin/frontend/Component/Modal/modal-edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XE1vZGFsXG1vZGFsLWVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rikiadhin/tefa-net-rikiadhin/frontend/Views/Home/Index.cshtml]
+[C:/dev/NET/tefa-net-rikiadhin/frontend/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rikiadhin/tefa-net-rikiadhin/frontend/Views/Home/Privacy.cshtml]
+[C:/dev/NET/tefa-net-rikiadhin/frontend/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rikiadhin/tefa-net-rikiadhin/frontend/Views/Shared/Error.cshtml]
+[C:/dev/NET/tefa-net-rikiadhin/frontend/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rikiadhin/tefa-net-rikiadhin/frontend/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/dev/NET/tefa-net-rikiadhin/frontend/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rikiadhin/tefa-net-rikiadhin/frontend/Views/_ViewImports.cshtml]
+[C:/dev/NET/tefa-net-rikiadhin/frontend/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rikiadhin/tefa-net-rikiadhin/frontend/Views/_ViewStart.cshtml]
+[C:/dev/NET/tefa-net-rikiadhin/frontend/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rikiadhin/tefa-net-rikiadhin/frontend/Views/Shared/_Layout.cshtml]
+[C:/dev/NET/tefa-net-rikiadhin/frontend/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-emfvoyloj2
