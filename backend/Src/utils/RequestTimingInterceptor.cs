@@ -1,7 +1,7 @@
 using System.Diagnostics;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc.Filters;
-using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Logging; 
 
 public class RequestTimingInterceptor : IAsyncActionFilter
 {

@@ -69,7 +69,7 @@ namespace backend.Src_Controllers
                 return Conflict("Data has been modified by another process. Please try again.");
             }
 
-            return NoContent();
+            return Ok(existingTodoList);
         }
 
         // POST: api/TodoList
@@ -103,7 +103,7 @@ namespace backend.Src_Controllers
             _context.TodoList.Remove(todoList);
             await _context.SaveChangesAsync();
 
-            return NoContent();
+             return Ok(todoList);
         }
 
         private bool TodoListExists(int id)
